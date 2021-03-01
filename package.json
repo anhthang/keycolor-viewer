@@ -18,7 +18,7 @@
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
     "react-scripts": "3.4.3",
-    "three": "0.119.1"
+    "three": "0.125.0"
   },
   "scripts": {
     "start": "react-scripts start",
